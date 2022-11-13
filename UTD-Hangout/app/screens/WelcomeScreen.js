@@ -6,12 +6,6 @@ import colors from '../config/colors'
 import font from '../config/font'
 
 
-const Separator = () => (
-  <View style={styles.separator} />
-);
-
-
-
 export default function WelcomeScreen() {
   return (
   <View style={styles.container}>
